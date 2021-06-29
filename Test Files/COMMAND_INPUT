@@ -1,0 +1,30 @@
+login 789455 7001
+login 789455 7002
+login 789455 7003
+login 789455 7004
+unlock
+Ii2doo1zedie
+login 789455 7004
+listsold
+putmoney 100
+listsold
+getmoney 100000000
+getmoney 1005
+getmoney 1000
+listsold
+logout
+login 000000 0000
+getmoney 5000
+listsold
+putmoney 1534.55
+listsold
+logout
+invalid_command
+login 266373 637
+login 266373 6373
+listsold
+getmoney 100
+listsold
+logout
+quit
+quit
